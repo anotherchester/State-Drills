@@ -1,1 +1,1 @@
-Accordion drill was made by Fernando Gaol Fiho and Oleg Cherniaev
+Accordion drill was made by Fernando Gaol Filho and Oleg Cherniaev
